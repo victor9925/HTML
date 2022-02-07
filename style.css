@@ -4,4 +4,9 @@
 }
 p{
     color: tomato;
+    background-color: blue;
+    border: blue 15px outset;
+
 }
+
+
